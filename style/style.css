@@ -54,11 +54,11 @@ body {
 }
 
 .three {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .four .text-box {
-  width: 600px;
+  width: 440px;
   margin: 0 auto;
   border: 3px solid #aaa;
   border-radius: 5px;
@@ -118,8 +118,8 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 45%;
-  height: auto;
+  max-width: 25%;
+  height: 25%;
 }
 
 .six .hat {
@@ -212,8 +212,8 @@ body {
 }
 
 .wish-hbd {
-  font-size: 3em;
-  margin: 0;
+  font-size: 2em;
+  margin:0;
   /* text-transform: uppercase; */
 }
 
